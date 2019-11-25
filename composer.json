@@ -1,0 +1,16 @@
+{
+    "description": "A library of additional, general-purpose functionality for PHP.",
+    "name": "bogosoft/core",
+    "license": "MIT",
+    "require": {
+        "php": ">=5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bogosoft\\Core\\": "src/"
+        }
+    }
+}
