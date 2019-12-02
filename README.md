@@ -9,5 +9,6 @@ This library contains additional general-purpose functionality for PHP.
 
 ## Features
 
-- NotImplementedExecption
-- NotSupportedException
+- `InvalidOperationException`
+- `NotImplementedExecption`
+- `NotSupportedException`
