@@ -3,10 +3,10 @@
     "name": "bogosoft/core",
     "license": "MIT",
     "require": {
-        "php": ">=5"
+        "php": ">=7.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8"
+        "phpunit/phpunit": "^8.5"
     },
     "autoload": {
         "psr-4": {
